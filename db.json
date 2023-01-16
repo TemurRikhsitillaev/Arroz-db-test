@@ -8,7 +8,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -19,7 +19,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -30,7 +30,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -41,7 +41,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -52,7 +52,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -63,7 +63,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -74,7 +74,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     },
     {
@@ -85,7 +85,7 @@
       "price": "100000",
       "img": {
         "numberOfImages": 10,
-        "imgURL": "images/sport-complexes/img"
+        "imgFolder": "images/sport-complexes/"
       }
     }
   ],
