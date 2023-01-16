@@ -6,7 +6,7 @@
             "phoneNumber": "+998994009444",
             "address": "Tashkent, M. Ulugbeki r. Akrganskaya str.",
             "price": "100000", 
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "phoneNumber": "+998712637570",
             "address": "Almazar region. Hard & Clay",
             "price": "100000",
-            "imgURL": "../../images/sport-complexes/img1.jpg"
+            "imgURL": "images/sport-complexes/img1.jpg"
         }
        ],
   "profile": {
