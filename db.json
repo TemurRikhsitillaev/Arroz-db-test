@@ -1,70 +1,94 @@
 {
   "sport-complexes": [
-        {
-            "id": 1,
-            "name": "ITEK",
-            "phoneNumber": "+998994009444",
-            "address": "Tashkent, M. Ulugbeki r. Akrganskaya str.",
-            "price": "100000", 
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 2,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 3,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 4,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 5,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 6,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 7,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        },
-        {
-            "id": 8,
-            "name": "RTSHOR",
-            "phoneNumber": "+998712637570",
-            "address": "Almazar region. Hard & Clay",
-            "price": "100000",
-            "imgURL": "images/sport-complexes/img1.jpg"
-        }
-       ],
+    {
+      "id": 1,
+      "name": "ITEK",
+      "phoneNumber": "+998994009444",
+      "address": "Tashkent, M. Ulugbeki r. Akrganskaya str.",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 2,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 3,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 4,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 5,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 6,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 7,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    },
+    {
+      "id": 8,
+      "name": "RTSHOR",
+      "phoneNumber": "+998712637570",
+      "address": "Almazar region. Hard & Clay",
+      "price": "100000",
+      "img": {
+        "numberOfImages": 10,
+        "imgURL": "images/sport-complexes/img"
+      }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
