@@ -7,8 +7,16 @@
       "address": "Tashkent, M. Ulugbeki r. Akrganskaya str.",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -18,8 +26,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -29,8 +45,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -40,8 +64,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -51,8 +83,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -62,8 +102,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -73,8 +121,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     },
     {
@@ -84,8 +140,16 @@
       "address": "Almazar region. Hard & Clay",
       "price": "100000",
       "img": {
-        "numberOfImages": 10,
-        "imgFolder": "images/sport-complexes/"
+        "imgURL1": "images/sport-complexes/img1.jpg",
+        "imgURL2": "images/sport-complexes/img2.jpg",
+        "imgURL3": "images/sport-complexes/img3.jpg",
+        "imgURL4": "images/sport-complexes/img4.jpg",
+        "imgURL5": "images/sport-complexes/img5.jpg",
+        "imgURL6": "images/sport-complexes/img6.jpg",
+        "imgURL7": "images/sport-complexes/img7.jpg",
+        "imgURL8": "images/sport-complexes/img8.jpg",
+        "imgURL9": "images/sport-complexes/img9.jpg",
+        "imgURL10": "images/sport-complexes/img10.jpg"
       }
     }
   ],
